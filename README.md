@@ -58,7 +58,9 @@ Share your skills and mentor new contributors.
 
 📬 Contact Us
 
-📧 Email: contact@codestudiocollective.org🌍 Website: codestudiocollective.org💬 Discord: Coming Soon!
+📧 Email: contact@codestudiocollective.org
+🌍 Website: codestudiocollective.org
+💬 Discord: Coming Soon!
 
 ❤️ Support Us
 
